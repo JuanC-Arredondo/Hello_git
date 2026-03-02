@@ -1,1 +1,1 @@
-print("Hello World 3 v3 main")
+print("Hello Git version 3")
